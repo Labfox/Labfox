@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning lua
 - 📫 How to reach me: @labfox on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I actually started code with one page of a book on "tech"
 
 ---
 
