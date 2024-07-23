@@ -12,9 +12,4 @@
   </a>
 <br>
 
----
-
-  <a href="https://github.com/Labfox">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Labfox&layout=compact&theme=gotham&locale=en" alt="Labfox's most used      languages"/>
-  </a>
   
